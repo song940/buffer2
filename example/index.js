@@ -1,6 +1,6 @@
 
-const Buffer2 = require('../');
+const Buffer2 = require('..');
 
-var buf = new Buffer2(new Buffer([ 25, 88, 77 ]));
+const buffer = Buffer.from([ 0xff, 0x00 ]);
 
-console.log(buf);
+console.log(buffer);

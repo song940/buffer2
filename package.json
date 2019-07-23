@@ -1,6 +1,6 @@
 {
   "name": "buffer2",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "to be a better buffer",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/song940/node-buffer#readme",
   "keywords": [
     "buffer"
-  ]
+  ],
+  "directories": {
+    "example": "example"
+  }
 }
